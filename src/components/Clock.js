@@ -22,7 +22,6 @@ export default class Clock extends React.Component {
       time: tzone().tz(this.props.zone).format('H:mm:ss')
     });
     setTimeout(this.setTime, 1000)
-    // time: moment().format('H:mm:ss')
   }
 
   setDate () {

@@ -13,11 +13,11 @@ class App extends Component {
         <Layout.Content style={{ justifyContent: 'center', alignItems: 'center', display: 'flex' }}>
           <div className="content-center">
             <Card title="Tokyo" style={{ width: 300, textAlign: 'center' }}>
-              <Avatar src="https://zos.alipayobjects.com/rmsportal/ODTLcjxAfvqbxHnVXCYX.png" size="large" />
+              <Avatar src="https://lh3.googleusercontent.com/-POxjdeyOe58/V-6Uab3VfVI/AAAAAAAAATQ/9rUp8nxnk_UTKo-uXme_qPRNv56j-noMwCEwYBhgL/w280-h280-p/sheenan.jpg" size="large" />
               <Clock zone="Asia/Tokyo" />
             </Card>
             <Card title="Houston" style={{ marginTop: 20, width: 300, textAlign: 'center' }}>
-              <Avatar src="https://zos.alipayobjects.com/rmsportal/ODTLcjxAfvqbxHnVXCYX.png" size="large" />
+              <Avatar icon="user" size="large" />
               <Clock zone="America/Rainy_River" />
             </Card>
           </div>
