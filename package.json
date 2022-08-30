@@ -5,7 +5,7 @@
   "dependencies": {
     "antd": "^2.13.3",
     "moment": "^2.18.1",
-    "moment-timezone": "^0.5.13",
+    "moment-timezone": "^0.5.35",
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
     "react-scripts": "1.0.13"
